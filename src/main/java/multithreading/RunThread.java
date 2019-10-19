@@ -6,6 +6,8 @@ public class RunThread {
         DifferentClsThreads dt = new DifferentClsThreads();
         dt.start();
 
+        long starttime=System.currentTimeMillis();
+        System.out.println(starttime);
         while (DifferentClsThreads.count <= 10) {
 
             System.out.println("main thread:" + (++DifferentClsThreads.count));
@@ -13,6 +15,11 @@ public class RunThread {
 
 
         }
+        long endtime=System.currentTimeMillis();
+        System.out.println(endtime);
+
+        long executionTime=(endtime-starttime);
+        System.out.println(executionTime);
     }
 }
 
