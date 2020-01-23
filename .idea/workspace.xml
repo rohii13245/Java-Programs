@@ -5,39 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/exceptionhandling/TestException.java" line="15" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df1a8f22-5c33-46c0-8039-9cab8fb8e415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/UsingCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dateAndTime/FindDateAndTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ivp4/DemoRegexClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/Bar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/BuildStuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/DemoClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/SerializableInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/xyz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sqlQueries/JdbcTestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sqlQueries/NewData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ivp4/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ivp4/AppTest.class" afterDir="false" />
+    <list default="true" id="df1a8f22-5c33-46c0-8039-9cab8fb8e415" name="Default Changelist" comment="scjp mcq">
+      <change afterPath="$PROJECT_DIR$/src/main/java/scjpQuestios/Forest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ivp4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fileHandling/CreateFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileHandling/CreateFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ivp4/ThisKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/staticKeyword/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/staticKeyword/StaticKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thisKeyword/ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thisKeyword/ThisKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thisKeyword/ThisKeyword2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thisKeyword/ThisKeyword2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/usingPolymorphism/ChildClsFatty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/ChildClsFatty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/usingPolymorphism/ChildClsPapaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/ChildClsPapaya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/usingPolymorphism/ChildClsTunaFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/ChildClsTunaFish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/usingPolymorphism/SuperCls2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/SuperCls2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/usingPolymorphism/SuperClsFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/SuperClsFood.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,11 +82,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/scjpQuestios/BuildStuff.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/scjpQuestios/Forest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/scjpQuestios/Foo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -152,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Gui.java" />
         <option value="$PROJECT_DIR$/src/main/java/polymorphism/SuperCls2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/usingStringClass/Main.java" />
@@ -203,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/main/java/scjpQuestios/Title.java" />
         <option value="$PROJECT_DIR$/src/main/java/sqlQueries/NewData.java" />
         <option value="$PROJECT_DIR$/src/main/java/scjpQuestios/BuildStuff.java" />
+        <option value="$PROJECT_DIR$/src/main/java/scjpQuestios/Forest.java" />
       </list>
     </option>
   </component>
@@ -293,7 +281,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579772578994" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579774419896" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/createDataDemo" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -320,9 +308,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuildStuff">
-    <configuration name="Bar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scjpQuestios.Bar" />
+  <component name="RunManager" selected="Application.Forest">
+    <configuration name="BuildStuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scjpQuestios.BuildStuff" />
       <module name="ivp4" />
       <extension name="coverage">
         <pattern>
@@ -334,8 +322,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuildStuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scjpQuestios.BuildStuff" />
+    <configuration name="Forest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scjpQuestios.Forest" />
       <module name="ivp4" />
       <extension name="coverage">
         <pattern>
@@ -388,11 +376,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Forest" />
         <item itemvalue="Application.BuildStuff" />
         <item itemvalue="Application.NewData" />
         <item itemvalue="Application.Title" />
         <item itemvalue="Application.Question1" />
-        <item itemvalue="Application.Bar" />
       </list>
     </recent_temporary>
   </component>
@@ -631,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571488784896</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="scjp mcq">
+      <created>1579772652575</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1579772652575</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView">
@@ -645,7 +640,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1024" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23006135" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -656,15 +650,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3061889" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3990228" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30456027" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.20509383" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32841823" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32707775" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3257329" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24967825" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -704,7 +698,6 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="static keyword &amp; tostring format" />
     <MESSAGE value="using final keyword" />
     <MESSAGE value="polymorphism by overriding" />
     <MESSAGE value="String class" />
@@ -729,27 +722,14 @@
     <MESSAGE value="encapsulation" />
     <MESSAGE value="thread creation" />
     <MESSAGE value=" count thread time" />
-    <option name="LAST_COMMIT_MESSAGE" value=" count thread time" />
+    <MESSAGE value="scjp mcq" />
+    <option name="LAST_COMMIT_MESSAGE" value="scjp mcq" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/SuperCls2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/SuperClsFood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/ChildClsPapaya.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1113,6 +1093,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scjpQuestios/Forest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scjpQuestios/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
