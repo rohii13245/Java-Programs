@@ -1,4 +1,4 @@
-package usingPolymorphism;
+package polymorphism;
 
 public class ChildClsPapaya extends SuperClsFood {
 

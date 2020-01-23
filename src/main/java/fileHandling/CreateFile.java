@@ -1,9 +1,7 @@
 package fileHandling;
 
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 
 public class CreateFile {
@@ -23,6 +21,7 @@ public class CreateFile {
         while ((i = inputStream.read()) != -1) {
             System.out.print((char) i);
         }
+
     }
 
 }
